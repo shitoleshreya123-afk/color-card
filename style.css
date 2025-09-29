@@ -1,0 +1,58 @@
+
+
+.card1{
+    background-color: deeppink;
+    width: 200px;
+    height: 300px;
+    margin: 15px;
+    
+    }
+
+.card2{
+    background-color: darkorange;
+    position:absolute;
+    top:30px;
+    left:40px;
+    width:200px;
+    height:300px;
+    margin:10px;
+}
+
+.card3{
+     background-color: red;
+     position: absolute;
+     top:60px;
+     left:70px;
+     width:200px;
+     height:300px;
+}
+    
+
+.card4{
+    background-color: darkviolet;
+    position:absolute;
+    top:90px;
+    left:100px;
+    width:200px;
+    height:300px;
+}
+
+
+.card5{
+    background-color: green;
+    position:absolute;
+    top:120px;
+    left:130px;
+    width:200px;
+    height:300px;
+}
+
+.card6{
+    background-color:yellow;
+    position:absolute;
+    top:150px;
+    left:160px;
+    width:200px;
+    height:300px;
+}
+
